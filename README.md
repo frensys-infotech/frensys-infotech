@@ -8,7 +8,7 @@
   <a href="https://frensysinfotech.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-frensysinfotech.com-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:hello@frensysinfotech.com">
+  <a href="mailto:info@frensysinfotech.com">
     <img src="https://img.shields.io/badge/Email-hello%40frensysinfotech.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
